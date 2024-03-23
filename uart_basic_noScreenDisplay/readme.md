@@ -1,12 +1,11 @@
-# STM32U5A9J-DK-FreeRTOS TBS
+# Description
+This project is built by STM32 TouchGFX Designer, based on FreeRTOS system to implement the basic UART receive function (no screen display).
 
-The default IDE is set to STM32CubeIDE, to change IDE open the STM32U5A9J-DK-FreeRTOS.ioc with CubeMX and select from the supported IDEs (EWARM, MDK-ARM and STM32CubeIDE). Supports flashing of the STM32U5A9J-DK board directly from TouchGFX Designer using GCC and STM32CubeProgrammer. Flashing the board requires STM32CubeProgrammer which can be downloaded from the ST webpage.
+After initialization, the microcontroller will send "Ready to receive", then you can send a variable length string from the PC serial port to the microcontroller, and the microcontroller will respond to the string you sent.
 
-This TBS is configured for 480 x 480 pixels 24 bpp screen resolution.
 
-Performance testing can be done using the GPIO pins designated with the following signals in CN10 connector on the underside of the board:
-
-- VSYNC_FREQ  - Pin PD1
-- RENDER_TIME - Pin PD0
-- FRAME_RATE  - Pin PF14
-- MCU_ACTIVE  - Pin PF12
+### UART Parameter Settings: 
+- Baud rate: 115200
+- Word length: 8
+- Parity: Stop Bit: None
+- Stop Bit 1
