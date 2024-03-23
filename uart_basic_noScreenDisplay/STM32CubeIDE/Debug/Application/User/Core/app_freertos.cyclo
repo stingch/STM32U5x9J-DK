@@ -1,0 +1,3 @@
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Core/Src/app_freertos.c:144:6:StartDefaultTask	2
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Core/Src/app_freertos.c:78:6:vApplicationIdleHook	1
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Core/Src/app_freertos.c:99:6:MX_FREERTOS_Init	1

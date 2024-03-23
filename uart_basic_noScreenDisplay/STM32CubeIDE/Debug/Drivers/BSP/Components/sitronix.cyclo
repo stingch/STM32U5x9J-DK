@@ -1,0 +1,16 @@
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/Components/sitronix/sitronix.c:128:9:SITRONIX_GetCapabilities	1
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/Components/sitronix/sitronix.c:182:9:SITRONIX_DeInit	2
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/Components/sitronix/sitronix.c:199:9:SITRONIX_GestureConfig	1
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/Components/sitronix/sitronix.c:309:9:SITRONIX_EnableIT	1
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/Components/sitronix/sitronix.c:410:16:ReadRegWrap	1
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/Components/sitronix/sitronix.c:425:16:WriteRegWrap	1
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/Components/sitronix/sitronix.c:439:16:ReadDataWrap	1
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/Components/sitronix/sitronix.c:149:9:SITRONIX_Init	3
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/Components/sitronix/sitronix.c:211:9:SITRONIX_ReadID	4
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/Components/sitronix/sitronix.c:241:9:SITRONIX_GetState	2
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/Components/sitronix/sitronix.c:269:9:SITRONIX_GetMultiTouchState	2
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/Components/sitronix/sitronix.c:357:9:SITRONIX_ClearIT	1
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/Components/sitronix/sitronix.c:294:9:SITRONIX_GetGesture	1
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/Components/sitronix/sitronix.c:324:9:SITRONIX_DisableIT	1
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/Components/sitronix/sitronix.c:341:9:SITRONIX_ITStatus	1
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/Components/sitronix/sitronix.c:86:9:SITRONIX_RegisterBusIO	3

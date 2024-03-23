@@ -1,0 +1,15 @@
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/STM32U5x9J-DK/stm32u5x9j_discovery_hspi.c:264:16:Tuning_HSPI_Write.constprop	32	static
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/STM32U5x9J-DK/stm32u5x9j_discovery_hspi.c:325:26:MX_HSPI_RAM_Init	16	static
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/STM32U5x9J-DK/stm32u5x9j_discovery_hspi.c:437:9:BSP_HSPI_RAM_Read	56	static
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/STM32U5x9J-DK/stm32u5x9j_discovery_hspi.c:479:9:BSP_HSPI_RAM_Read_DMA	32	static
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/STM32U5x9J-DK/stm32u5x9j_discovery_hspi.c:515:9:BSP_HSPI_RAM_Write	32	static
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/STM32U5x9J-DK/stm32u5x9j_discovery_hspi.c:557:9:BSP_HSPI_RAM_Write_DMA	32	static
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/STM32U5x9J-DK/stm32u5x9j_discovery_hspi.c:590:9:BSP_HSPI_RAM_EnableMemoryMappedMode	16	static
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/STM32U5x9J-DK/stm32u5x9j_discovery_hspi.c:629:9:BSP_HSPI_RAM_DisableMemoryMappedMode	16	static
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/STM32U5x9J-DK/stm32u5x9j_discovery_hspi.c:211:9:BSP_HSPI_RAM_DeInit	24	static
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/STM32U5x9J-DK/stm32u5x9j_discovery_hspi.c:685:9:BSP_HSPI_RAM_Config16BitsOctalRAM	32	static
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/STM32U5x9J-DK/stm32u5x9j_discovery_hspi.c:141:9:BSP_HSPI_RAM_Init	168	static,ignoring_inline_asm
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/STM32U5x9J-DK/stm32u5x9j_discovery_hspi.c:851:9:BSP_HSPI_RAM_EnterDeepPowerDown	8	static
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/STM32U5x9J-DK/stm32u5x9j_discovery_hspi.c:881:9:BSP_HSPI_RAM_LeaveDeepPowerDown	8	static
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/STM32U5x9J-DK/stm32u5x9j_discovery_hspi.c:911:6:BSP_HSPI_RAM_DMA_IRQHandler	8	static
+C:/Users/Jessie/Documents/TouchGFXProjects/uart_basic_noScreenDisplay/Drivers/BSP/STM32U5x9J-DK/stm32u5x9j_discovery_hspi.c:922:6:BSP_HSPI_RAM_IRQHandler	0	static
