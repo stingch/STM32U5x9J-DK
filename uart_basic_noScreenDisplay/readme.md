@@ -9,3 +9,6 @@ After initialization, the microcontroller will send "Ready to receive", then you
 - Word length: 8
 - Parity: Stop Bit: None
 - Stop Bit 1
+
+### result
+![image](https://github.com/stingch/STM32U5x9J-DK/blob/main/uart_basic_noScreenDisplay/Serial%20test.png)
